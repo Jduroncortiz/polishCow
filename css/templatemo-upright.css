@@ -19,7 +19,7 @@ https://templatemo.com/tm-555-upright
 
 @font-face {
     font-family: Formular;
-    src: url(./resources/fonts/Formular.ttf);
+    src: url(/resources/fonts/Formular.ttf);
 }
 
 * {
