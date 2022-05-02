@@ -7,7 +7,7 @@ https://templatemo.com/tm-555-upright
 
 	Color Codes
 	=============
-	Primary blue: #EF3341
+	Primary red: #EF3341
 	Gray text: #666666
 	Light gray nav button bg: #F2F2F2;
 
@@ -17,12 +17,14 @@ https://templatemo.com/tm-555-upright
 	
 */
 
-@font-face {
+
+/*@font-face {
     font-family: Formular;
     src: url(../resources/fonts/Formular.ttf);
 }
 
-*font-family: Formular;
+*font-family: Formular;*/
+
 html,
 body {
     overflow-x: hidden;
